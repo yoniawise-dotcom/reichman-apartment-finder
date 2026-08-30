@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Reichman Apartment Copier",
+  "version": "0.1.0",
+  "description": "Copies visible Facebook/Marketplace apartment text and links so you can paste them into the local finder.",
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
+  "action": {"default_popup": "popup.html"}
+}
